@@ -1,0 +1,21 @@
+Date                               Transaction Details                            Receipts       Withdrawals       Balance
+
+Balance brought forward                                                                           £1,001.46
+02Dec13 ATM Transaction                OXFORD CIRCUS 1                                        £20.00             £981.46
+03Dec13 ATM Transaction                 MARKET ST                                                  £30.00             £951.46
+05Dec13 ATM Transaction                 BRICK ROAD                                                 £50.00             £901.46
+06Dec13 ATM Transaction                 TESCO ATM 2                                             £100.00             £801.46
+09Dec13 ATM Transaction                 EWELL CHEAM ROAD                                      £20.00             £781.46
+10Dec13 ATM Transaction                CHEAM                                                      £10.00             £771.46
+13Dec13 ATM Transaction                KILN LANE                                                 £50.00            £721.46
+16Dec13 ATM Transaction                 TESCO ATM 2                                                £60.00             £661.46
+18Dec13 ATM Transaction                RICHMOND                                                £70.00             £591.46
+20Dec13 ATM Transaction                 CENTRAL ROAD                                             £20.00             £571.46
+21Dec13 ATM Transaction                OXFORD CIRCUS 1                                        £40.00             £531.46
+24Dec13 ATM Transaction                 TESCO ATM 2                                               £60.00             £471.46
+26Dec13 ATMTransaction                 OXFORD CIRCUS 1                                        £120.00             £351.46
+27Dec13 Third Party Credit                 KLEO                                  £1,911.34                                  £2,262.80
+28Dec13 ATM Transaction                 NEW MARKET                                               £40.00           £2,222.80
+30Dec13  ATMTransaction                 OLD ST ROAD                                                 £20.00           £2,202.80
+
+Balance as at 31 December 2013                                                                                       £2,202.80
