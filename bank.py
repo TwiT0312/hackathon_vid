@@ -35,16 +35,31 @@ text = s[start:end]
 print(text)
 
 
+
+
+# Program to show various ways to read and 
+# write data in a file. 
+file1 = open("myfile.txt","w") 
+
+  
+# \n is placed to indicate EOL (End of Line) 
+
+file1.writelines(text) 
+file1.close() #to change file access modes 
+  
+file1 = open("myfile.txt","r+")  
+  
+
+print (file1.read())
+
+
 import csv
 
-
-stripped = (line.strip() for line in text)
-lines = (line.split("/s/s") for line in stripped if line)
-with open('log.csv', 'w') as out_file:
-    writer = csv.writer(out_file)
-    writer.writerows(lines)
-
-
+with open("myfile.txt", 'r+') as infile, open("mycsv.csv", 'w') as outfile:
+     stripped = (line.strip() for line in infile)
+     lines = (line.split("/s/s") for line in stripped if line)
+     writer = csv.writer(outfile)
+     writer.writerows(lines)
 
 df
 img = cv2.imread('statement2.png')
